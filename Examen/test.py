@@ -1,0 +1,4 @@
+import examen 
+
+examen.main()
+
